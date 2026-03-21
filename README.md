@@ -39,7 +39,7 @@
 
 ---
 
-## 🌟 Projets phares
+## 💥 Projets phares
 | 🎯 Projet | 📜 Description | 🔥 Statut |
 |---|---|---|
 | **Site + App pour cs2 (les utilitaires)** | En cours de développement car grandes ambitions. | 🌘 |
@@ -49,7 +49,7 @@
 
 ---
 
-## 🦅 Expertise
+## 🌀 Expertise
 | Compétence | Niveau |
 |---|---|
 | 🐍 Python | ⭐⭐☆✰✰ |
