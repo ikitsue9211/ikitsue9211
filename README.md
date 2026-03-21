@@ -8,20 +8,11 @@
 
 ---
 
-<div align="center">
-  
-🌙 <strong>Programmeur débutant</strong>
-
-</div>
-
----
-
-## 💜 About Me
-- 🥐 Français — je parle **English** et **Русский**
+## 💙 About Me
+- 🥐  Français — je parle **English** et **Русский**
 - 💻 Je crée des **sites**, des **apps**
 - 🐍 Je code principalement en **JavaScript / JSX**
 - ⚡ J’utilise aussi **Python**
-- 🟣 Ce compte est utilisé comme **backup / tests / projets secondaires**
 
 ---
 
