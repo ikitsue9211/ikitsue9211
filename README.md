@@ -10,7 +10,7 @@
 
 <div align="center">
   
-💜 <strong>Compte secondaire — Programmeur débutant</strong>
+🌙 <strong>Programmeur débutant</strong>
 
 </div>
 
