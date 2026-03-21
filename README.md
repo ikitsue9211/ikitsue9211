@@ -1,6 +1,6 @@
 <!-- HEADER BANNER -->
 <div align="center">
-  <img src="./assets/gif Kaneki Banner.gif" width="100%" />
+  <img src="./assets/Johnny Joestar - stand.gif" width="100%" />
   
   <h1>✧･ﾟ: *✧ Ikitsue (Second Account) ✧* :･ﾟ✧</h1>
   
