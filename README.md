@@ -5,14 +5,30 @@
   <h1>✧･ﾟ: *✧ Ikitsue (Second Account) ✧* :･ﾟ✧</h1>
   
   <h3>💜 Compte secondaire officiel de Ikitsue 💜</h3>
+  
+  <em>
+  「Моя мечта уже запятнана кровью. Я не жалею об этом и не чувствую вины. 
+  Но я скорее пожертвую собой, чем буду смотреть, как ещё больше невинных детей умирают во имя моей мечты.」
+  — Berserk - Griffith
+  </em>
+</div>
 
 ---
 
-## 💙 About Me
-- 🥐  Français — je parle **English** et **Русский**
+<div align="center">
+  
+💜 <strong>Compte secondaire — Programmeur débutant</strong>
+
+</div>
+
+---
+
+## 💜 About Me
+- 🥐 Français — je parle **English** et **Русский**
 - 💻 Je crée des **sites**, des **apps**
 - 🐍 Je code principalement en **JavaScript / JSX**
 - ⚡ J’utilise aussi **Python**
+- 🟣 Ce compte est utilisé comme **backup / tests / projets secondaires**
 
 ---
 
