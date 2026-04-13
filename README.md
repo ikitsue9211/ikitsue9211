@@ -4,7 +4,7 @@
   
   <h1>✧･ﾟ: *✧ Ikitsue (Second Account) ✧* :･ﾟ✧</h1>
   
-  <h3>💜 Compte secondaire officiel de Ikitsue 💜</h3>
+  <h3>💜 Compte officiel de Ikitsue 💜</h3>
 </div>
 <div align="center">
      <a href="/cs.html" target="_blank">
